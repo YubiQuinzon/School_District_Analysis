@@ -41,3 +41,6 @@ After cleaning our data so that it is fit for analysis, we organized our data to
 
 ![Student Budget](Pictures/spending_per_student.png)
 
+## Summary
+After changing the scores for reading and math, there were some slight differences. Some of the biggest differences was the significant changes in performance metrics within THS. This has also raised THS to be on of the top 5 schools after these changes were pushed. Because the difference in performance metrics in THS, this also affects the metric averages for all the grades. After the changes, the metric averages goes up significantly! There were no significant changes in the criterias mentioned above (school type/ School Size/ budget per student)
+
