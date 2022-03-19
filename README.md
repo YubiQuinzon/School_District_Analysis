@@ -12,9 +12,8 @@ Helping the city's chief data scientists with analyzing the standardized test da
 After cleaning our data so that it is fit for analysis, we organized our data to see the differences in standardized test performances based on a few different criteria:
 - The first criteria we looked at was the difference in standardized testing performances between grades (9th-12th). However, we have found that the difference in grade does not affect the performance of the students. This is shown as the averages for both reading and math scores are only tenth of a percent off from each other.
 
-![Math Scores #1](Pictures/math_scores_by_school#1.png)
-
-![Math Scores #2](Pictures/math_scores_by_school#2.png)
+![Math Score #1](Pictures/math_scores_by_school_one.png)
+![Math Score #1](Pictures/math_scores_by_school_two.png)
 
 - Another critea we looked at was the difference between the different school types. Through our analysis, it is clearly evident that the different school types plays a major role in the performance of the students. It is shown that students who attend Charter schools do significantly better than District school students in all performance aspects.
 
